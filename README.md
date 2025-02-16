@@ -18,16 +18,15 @@ Welcome to my GitHub profile! I specialize in **Artificial Intelligence, Machine
 🔹 **Goal**: **Build production-ready AI solutions and contribute to open-source**  
 
 ---
-
-## 🚀 Featured AI/ML Projects  
 <!---
+## 🚀 Featured AI/ML Projects  
+
 🔬 **[Project Name 1](#)** – Built a deep learning model using **PyTorch & TensorFlow** to solve [problem].  
 📊 **[Project Name 2](#)** – Developed a **NLP chatbot** using **OpenAI GPT & LangChain**, deployed with **FastAPI**.  
 ⚡ **[Project Name 3](#)** – Implemented **MLOps pipelines** for scalable AI model deployment.  
 
 > 📌 *Explore my repositories for more AI/ML projects!*  
 -->
----
 
 ## 🛠️ Tech Stack  
 
@@ -58,22 +57,22 @@ Welcome to my GitHub profile! I specialize in **Artificial Intelligence, Machine
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saither0204&theme=tokyo-night&border_radius=10&card_width=500&card_height=200&background=0%2CEBEBEB00%2CEB545400)
 
 ---
-
-## 🏆 Certifications & Achievements  
 <!--
+## 🏆 Certifications & Achievements  
+
 🎓 **[AI/ML Certification](#)** – Completed advanced AI/ML training  
 🏆 **[Hackathon/Competition Win](#)** – Awarded for developing an AI-driven solution  
 📜 **[Research Paper (if any)](#)** – Published in [journal/conference]  
--->
+
 ---
 
 ## 📚 Blog & Articles  
-<!--
+
 ✍️ **[My Medium Blog](#)** – Writing about AI, ML, and system design  
 📢 **[LinkedIn Articles](#)** – Sharing insights on AI trends and projects  
--->
----
 
+---
+-->
 ## 🤝 Connect with Me  
 
 💼 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="20" height="20">  
