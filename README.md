@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile
 
-<!--
-**saither0204/saither0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **developer** dedicated to writing clean, efficient code and continuously improving my skills. Currently, I'm focused on **Data Structures & Algorithms (DSA)** and building **mini projects** to enhance my problem-solving abilities.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **DSA & Algorithmic Problem-Solving**
+- 🌱 Learning **Advanced DSA, System Design, and Backend Development**
+- 💡 Exploring **new technologies and best coding practices**
+- 🎯 Goal: **Become a skilled software engineer and build impactful projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Machine Learning & AI**: TensorFlow, PyTorch, LangChain, OpenAI APIs
+- **Languages**: Python, Java, JavaScript
+- **Web Development**: React, Node.js
+- **Databases**: PostgreSQL, Oracle
+- **Dev Tools**: Git, Docker, VS Code
+
+## 📊 GitHub Stats
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=saither0204&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saither0204&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
