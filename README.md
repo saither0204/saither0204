@@ -76,8 +76,8 @@ Welcome to my GitHub profile! I specialize in **Artificial Intelligence, Machine
 
 ## 🤝 Connect with Me  
 
-💼 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="20" height="20"> **LinkedIn**: [linkedin.com/in/sarthakshah](#)  
-📧 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" width="20" height="20"> **Email**: [your-email@example.com](#)  
+💼 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="20" height="20"> **LinkedIn**: [Connect With Me](https://www.linkedin.com/in/shahsart/)
+📧 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" width="20" height="20"> **Email**: [shahsart0204@gmail.com]
  
 <!--
 🌍 **Portfolio**: [your-portfolio.com](#)  
