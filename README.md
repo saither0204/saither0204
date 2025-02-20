@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I specialize in **Artificial Intelligence, Machine
 🔹 **Learning**: **Advanced ML, MLOps, and Large Language Models (LLMs)**  
 🔹 **Exploring**: **LangChain, OpenAI APIs, and fine-tuning AI models**  
 🔹 **Goal**: **Build production-ready AI solutions and contribute to open-source**  
+🔹 **Work Experience**: **More than one year as software developer in an upcoming startup in Germany**
 
 ---
 <!---
