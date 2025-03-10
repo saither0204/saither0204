@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I specialize in **Artificial Intelligence, Machine
   <img src="https://github-readme-stats.vercel.app/api?username=saither0204&show_icons=true&theme=tokyonight&border_radius=10&card_width=500&card_height=200&background=0%2CEBEBEB00%2CEB545400" alt="GitHub Stats" width="48%"/>
 </div>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saither0204&theme=tokyonight&border_radius=10&card_width=500&card_height=200&background=0%2CEBEBEB00%2CEB545400" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=saither0204&theme=tokyonight&border_radius=10&card_width=500&card_height=200&background=0%2CEBEBEB00%2CEB545400" alt="GitHub Streak" width="48%"/>
 </div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saither0204&theme=tokyo-night&border_radius=10&card_width=500&card_height=200&background=0%2CEBEBEB00%2CEB545400)
