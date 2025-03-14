@@ -74,10 +74,10 @@ Welcome to my GitHub profile! I specialize in **Artificial Intelligence, Machine
 -->
 ## 🤝 Connect with Me  
 
-💼 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" width="20" height="20"> **LinkedIn**: <a href="https://www.linkedin.com/in/shahsart/" target="_blank" rel="noopener noreferrer">Connect With Me</a>
-
-📧 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" width="20" height="20"> **Email**: [shahsart0204@gmail.com]
- 
+<div>
+  <a href="https://www.linkedin.com/in/shahsart" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shahsart0204@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/shahsart0204-grey?style=for-the-badge&labelColor=grey&logo=gmail" /></a>
+</div>
 <!--
 🌍 **Portfolio**: [your-portfolio.com](#)  
 -->
