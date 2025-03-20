@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I specialize in **Artificial Intelligence, Machine
 
 <div>
   <a href="https://www.linkedin.com/in/shahsart" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shahsart0204@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/shahsart0204-grey?style=for-the-badge&labelColor=grey&logo=gmail" /></a>
+  <!--<a href="mailto:shahsart0204@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/shahsart0204-grey?style=for-the-badge&labelColor=grey&logo=gmail" /></a> -->
 </div>
 <!--
 🌍 **Portfolio**: [your-portfolio.com](#)  
