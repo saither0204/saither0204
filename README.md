@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sarthak Shah!
+# Hello there 👋, I'm Sarthak Shah!
 
 🚀 **AI/ML Engineer | Researcher | Open-Source Contributor | API Developer**  
 
